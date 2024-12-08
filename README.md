@@ -10,7 +10,7 @@
 </p>
 <h4 align="center">Current Known Languages: (best ➜ least)</h5>
 <p align="center">
-           <img src="https://skillicons.dev/icons?i=py,go,nodejs,html,cs,"/>
+           <img src="https://skillicons.dev/icons?i=py,nodejs,html,cs,"/>
 </p>
 
 <br>
